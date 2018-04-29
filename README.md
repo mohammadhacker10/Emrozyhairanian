@@ -1,2 +1,0 @@
-# Emrozyhairanian
-Metasploit
